@@ -7,7 +7,7 @@
 ###### I AM CAPTAIN OF THIS LAKE!
 ##### ✧
 
-<sub>Sign my [**ATABOOK**](https://greatday.atabook.org) <br><b>Go<b> ahead and draw something on my [**STRAW**](https://seatreasure.straw.page)</sub>
+<sub>Sign my [**ATABOOK**](https://greatday.atabook.org) <br><b>Go<b> ahead and draw something on my new [**STRAW**](https://seatreasure.straw.page)</sub>
 
 
 <div align="center">

@@ -4,8 +4,6 @@
 
 ###### IIIIIIT'S.... <br> T!! V!! TIIIME!!!
 
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/643ef1d4-6639-475b-ae06-a3bafad57cba/ddku2by-96b5be3f-7d4f-4667-a4a2-325fcad2243e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0M2VmMWQ0LTY2MzktNDc1Yi1hZTA2LWEzYmFmYWQ1N2NiYVwvZGRrdTJieS05NmI1YmUzZi03ZDRmLTQ2NjctYTRhMi0zMjVmY2FkMjI0M2UuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a5twuC-JaIypjLnuV8dDz9-DUrXXznmPxlFi-kyrWEM)
-
 <div align="center">
 
 <img src="https://files.catbox.moe/sop09w.png" width="620px">

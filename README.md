@@ -7,7 +7,8 @@
 ###### Can't you see? They're all dead and it's all *YOUR* fault. You could've saved them.
 ##### ✧
 
-<sub>Sign my [**ATABOOK**](https://greatday.atabook.org) <br><b>Go<b> ahead and draw something on my new [**STRAW**](https://seatreasure.straw.page)</sub>
+<sub> [***ATABOOK***](https://greatday.atabook.org)  [***STRAW***](https://seatreasure.straw.page)   [***RENTRY***](https://rentry.co/CYBERTV)</sub>
+
 
 
 <div align="center">

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/pvvf2s.gif" width="50px"> <img src="https://deltarune.wiki/images/Tenna_overworld_snap.gif?cb=klfdse" width="70px"> <img src="https://files.catbox.moe/73bvny.gif" width="50px">
+<img src="https://files.catbox.moe/pvvf2s.gif" width="50px"> <img src="https://files.catbox.moe/6qy35c.gif" width="100px"> <img src="https://files.catbox.moe/73bvny.gif" width="50px">
 
 ![](https://komarev.com/ghpvc/?username=THATGREATDAY&color=da1f52&label=IloveTV!)
 

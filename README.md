@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/pvvf2s.gif" width="50px"> <img src="https://deltarune.wiki/images/Tenna_overworld_snap.gif?cb=klfdse" width="70px"> <img src="https://files.catbox.moe/73bvny.gif" width="50px">
 
-![](https://komarev.com/ghpvc/?username=THATGREATDAY&color=da1f52&label=RECRUITS)
+![](https://komarev.com/ghpvc/?username=THATGREATDAY&color=da1f52&label=IloveTV!)
 
 <sup> The Lord of Screens, cleaved Red by Blade. </sup>
 

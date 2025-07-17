@@ -11,3 +11,5 @@
 <sup> [**ATABOOK**](https://tvworld.atabook.org) ⋆ [**STRAWPAGE**](https://seatreasure.straw.page) ⋆ [**RENTRY**](https://rentry.co/CYBERTV)</sup>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=f2n6prthunxkl481yp07tfdlz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=992d1a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<sup> **ask before asking inspiration,** *this goes for my colour style; or my style in general*. please just **ask**. </sup>

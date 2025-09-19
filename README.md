@@ -12,4 +12,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=f2n6prthunxkl481yp07tfdlz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=992d1a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<sup> To defend my name from a specific ex-friend, PLEASE! read my document to said issue that they have caused [**here**](https://docs.google.com/document/d/1ubBMl0OtLncbbX5SuhmqQPY7mz_GBUKN1NswrvMtU8U/edit?usp=sharing), thank you. </sup>
+<sup> Hi! Please ask me to take inspiration from my ponies through whispers or atabook! :-) </sup>

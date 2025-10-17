@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/pvvf2s.gif" width="50px"> <img src="https://files.catbox.moe/6qy35c.gif" width="100px"> <img src="https://files.catbox.moe/73bvny.gif" width="50px">
+<img src="https://files.catbox.moe/xqhsj7.png" width="230px">
 
-![](https://komarev.com/ghpvc/?username=THATGREATDAY&color=da1f52&label=IloveTV!)
+![](https://komarev.com/ghpvc/?username=THATGREATDAY&color=86282c&label=Thieves)
 
-<sup> The Lord of Screens, cleaved Red by Blade. </sup>
+<sup> Give into temptation! </sup>
 
 <div align="center">
 

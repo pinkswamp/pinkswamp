@@ -19,7 +19,7 @@
   </a>
 </p>
 
-| ${{\color{#f9f0b1} Ponytown's}}$ ${{\color{#925283} Tenna!}}$ [★](https://github.com/pt-stars) |
+| ${{\color{#f9f0b1} Ponytown's}}$ ${{\color{#925283} Tenna!}}$ [★](https://github.com/pt-stars) [★](https://github.com/pt-walk-of-fame) |
 |------------------------------|
 
 <img src="https://deltarune.wiki/images/Tenna_funnytext_know_tv.png?cb=jwbvtr&h=thumb.php&f=Tenna_funnytext_know_tv.png" width="140px">

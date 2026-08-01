@@ -31,7 +31,7 @@
   
 | ${{\color{#925283} spamton}}$ [𖹭](https://github.com/directfies) ㅤ ${{\color{#925283} cathy}}$ [𖹭](https://github.com/HardRockWitch) ㅤ ${{\color{#925283} sharpness}}$ [𖹭](https://github.com/CONEXlONN) ㅤ ${{\color{#925283} wumble}}$ [𖹭](https://github.com/tirgery123) ㅤ ${{\color{#925283} dice}}$ [𖹭](https://github.com/SpaceKn1ghts) ㅤ ${{\color{#925283} sammi/sib}}$ [𖹭](https://github.com/Iomedy) |
 |------------------------------|
-| <sup> ㅤ  ${{\color{#925283} pt-awards:}}$ ${{\color{#572b72} og-winner}}$ [𖹭](https://github.com/pt-awards) ㅤ ${{\color{#925283} pt-players:}}$ ${{\color{#572b72} known-player}}$ [𖹭](https://github.com/pt-players) ㅤ ${{\color{#925283} pt-stars:}}$ ${{\color{#572b72} pretty-skin}}$ [𖹭](https://github.com/pt-stars) </sup> |
+| <sup> ㅤ  ${{\color{#925283} pt-awards:}}$ ${{\color{#572b72} og-winner}}$ [𖹭](https://github.com/pt-awards) ㅤ ${{\color{#925283} pt-players:}}$ ${{\color{#572b72} known-player}}$ [𖹭](https://github.com/pt-players) ㅤ ${{\color{#925283} pt-stars:}}$ ${{\color{#572b72} pretty-skin}}$ [𖹭](https://github.com/pt-stars) ㅤ ${{\color{#925283} pt-fashion:}}$ ${{\color{#572b72} coolest-ponies}}$ [𖹭](https://github.com/pt-fashion) </sup> |
 </details> 
 
 <details closed>

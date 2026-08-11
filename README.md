@@ -29,7 +29,7 @@
 <details closed>
   <summary> ${{\color{#572b72} ‹𝟹}}$ ${{\color{#f9f0b1} mentions!!}}$</summary>
   
-| ${{\color{#925283} spamton}}$ [𖹭](https://github.com/directfies) ㅤ ${{\color{#925283} cathy}}$ [𖹭](https://github.com/HardRockWitch) ㅤ ${{\color{#925283} sharpness}}$ [𖹭](https://github.com/CONEXlONN) ㅤ ${{\color{#925283} wumble}}$ [𖹭](https://github.com/tirgery123) ㅤ ${{\color{#925283} dice}}$ [𖹭](https://github.com/SpaceKn1ghts) ㅤ ${{\color{#925283} sammi/sib}}$ [𖹭](https://github.com/Iomedy) |
+| ${{\color{#925283} spamton}}$ [𖹭](https://github.com/directfies) ㅤ ${{\color{#925283} cathy}}$ [𖹭](https://github.com/HardRockWitch) ㅤ ${{\color{#925283} mika}}$ [𖹭](https://github.com/weakflowers) ㅤ ${{\color{#925283} sharpness}}$ [𖹭](https://github.com/CONEXlONN) ㅤ ${{\color{#925283} wumble}}$ [𖹭](https://github.com/tirgery123) ㅤ ${{\color{#925283} dice}}$ [𖹭](https://github.com/SpaceKn1ghts) ㅤ ${{\color{#925283} sammi/sib}}$ [𖹭](https://github.com/Iomedy) |
 |------------------------------|
 | <sup> ㅤ  ${\textsf{\color{#925283} pt-awards:}}$ ${\textsf{\color{#f9f0b1} og-winner}}$ [𖹭](https://github.com/pt-awards) ㅤ ${\textsf{\color{#925283} pt-players:}}$ ${\textsf{\color{#f9f0b1} known-player}}$ [𖹭](https://github.com/pt-players) ㅤ ${\textsf{\color{#925283} pt-stars:}}$ ${\textsf{\color{#f9f0b1} pretty-skin}}$ [𖹭](https://github.com/pt-stars) ㅤ ${\textsf{\color{#925283} pt-fashion:}}$ ${\textsf{\color{#f9f0b1} coolest-ponies}}$ [𖹭](https://github.com/pt-fashion) ㅤ ${\textsf{\color{#925283} fans-town:}}$ ${\textsf{\color{#f9f0b1} biggest-tenna-fan}}$ [𖹭](https://github.com/fans-town) </sup> |
 </details> 

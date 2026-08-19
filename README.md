@@ -11,7 +11,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gafata&size=18&duration=3300&pause=500&color=925283&center=true&width=435&height=28&lines=I+know+you+understand%2C+I+can't+leave+you+alone.;I+gave+you+my+time%2C+but+you+can't+pick+up+the+phone.;Life+done+been+so+tragic%2C+oh%2C+it+won't+leave+me+alone.;Try+not+to+be+obsessive%2C+I+fucked+up%2C+oh+girl%2C+I+know." alt="Typing SVG" width="370px"/></a>
 
-<img src="https://cdn.imgchest.com/files/c569d2c06fa5.png" width="20px"> ㅤ  [*ata*](https://dirkpool.atabook.org) ${{\color{#572b72} ⋆}}$ [*strawpage*](https://callthisnumber.straw.page) ${{\color{#572b72} ⋆}}$ [*reworking*] ㅤ  ${{\color{#f9f0b1} 𐔌՞ ܸ.ˬ.ܸ՞𐦯}}$
+<img src="https://cdn.imgchest.com/files/c569d2c06fa5.png" width="20px"> ㅤ  [*ata*](https://dirkpool.atabook.org) ${{\color{#572b72} ⋆}}$ [*strawpage*](https://callthisnumber.straw.page) ${{\color{#572b72} ⋆}}$ [*prns*](https://pronouns.cc/@addispam) ㅤ  ${{\color{#f9f0b1} 𐔌՞ ܸ.ˬ.ܸ՞𐦯}}$
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">

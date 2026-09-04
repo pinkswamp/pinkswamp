@@ -34,7 +34,7 @@
 | <sup> ㅤ  ${\textsf{\color{#925283} pt-awards:}}$ ${\textsf{\color{#f9f0b1} og-winner}}$ [𖹭](https://github.com/pt-awards) ㅤ ${\textsf{\color{#925283} pt-players:}}$ ${\textsf{\color{#f9f0b1} known-player}}$ [𖹭](https://github.com/pt-players) ㅤ ${\textsf{\color{#925283} pt-stars:}}$ ${\textsf{\color{#f9f0b1} pretty-skin}}$ [𖹭](https://github.com/pt-stars) ㅤ ${\textsf{\color{#925283} pt-fashion:}}$ ${\textsf{\color{#f9f0b1} coolest-ponies}}$ [𖹭](https://github.com/pt-fashion) ㅤ ${\textsf{\color{#925283} fans-town:}}$ ${\textsf{\color{#f9f0b1} biggest-tenna-fan}}$ [𖹭](https://github.com/fans-town) </sup> |
 </details> 
 
-<details closed>
+<details open>
   <summary> ${{\color{#572b72} ‹𝟹}}$ ${{\color{#f9f0b1} important!}}$</summary>
 
 | ${{\color{#925283} you \space must \space let \space me \space know \space if \space you're \space a \space minor \space so \space i'm \space aware, \space that \space is \space my \space only \space boundary \space before \space you \space decide \space to \space be \space friends \space with \space me!}}$ |
